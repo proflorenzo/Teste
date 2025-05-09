@@ -1,6 +1,7 @@
 # Teste
 Este é um arquivo de teste da aula de lógica
 
+Gustavo .c
 Erick Correios
 brayan;
 Maiara
@@ -18,5 +19,5 @@ kaio galvin
 Eduardo
 Vitor
 Otávio
-Felipe
+Felipe C.
 
