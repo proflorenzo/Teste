@@ -1,6 +1,7 @@
 # Teste
 Este é um arquivo de teste da aula de lógica
 
+Nicolas
 Gustavo .c
 Erick Correios
 brayan;
