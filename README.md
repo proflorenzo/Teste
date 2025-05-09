@@ -1,6 +1,7 @@
 # Teste
 Este é um arquivo de teste da aula de lógica
 
+Erick Correios
 brayan;
 Maiara
 Felipe da Rosa Riquerme
@@ -16,6 +17,6 @@ Gianluca
 kaio galvin
 Eduardo
 Vitor
-LORENZO
+Otávio
 Felipe
 
