@@ -1,6 +1,7 @@
 # Teste
 Este é um arquivo de teste da aula de lógica
 
+João vitor P.
 Davi Rocha Felisbino
 Davi Martins
 Luís
