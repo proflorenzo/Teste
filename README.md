@@ -1,6 +1,7 @@
 # Teste
 Este é um arquivo de teste da aula de lógica
 
+brayan;
 Maiara
 Felipe da Rosa Riquerme
 Maria Eduarda
