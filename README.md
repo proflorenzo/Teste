@@ -1,6 +1,7 @@
 # Teste
 Este é um arquivo de teste da aula de lógica
 
+Davi Rocha Felisbino
 Davi Martins
 Luís
 Gianluca
@@ -9,3 +10,4 @@ Eduardo
 Vitor
 LORENZO
 Felipe
+
