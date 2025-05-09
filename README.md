@@ -1,6 +1,7 @@
 # Teste
 Este é um arquivo de teste da aula de lógica
 
+felipe silverio
 João vitor P.
 Davi Rocha Felisbino
 Davi Martins
@@ -11,4 +12,3 @@ Eduardo
 Vitor
 LORENZO
 Felipe
-
