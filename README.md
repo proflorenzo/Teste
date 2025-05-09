@@ -1,6 +1,7 @@
 # Teste
 Este é um arquivo de teste da aula de lógica
 
+Maria Eduarda
 Davi Rocha Dura!
 Samuel
 felipe silverio
