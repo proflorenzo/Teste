@@ -1,6 +1,7 @@
 # Teste
 Este é um arquivo de teste da aula de lógica
 
+Maiara
 Felipe da Rosa Riquerme
 Maria Eduarda
 Davi Rocha Dura!
